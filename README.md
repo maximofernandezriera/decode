@@ -1,0 +1,2 @@
+# decode
+Decodificador básico.
